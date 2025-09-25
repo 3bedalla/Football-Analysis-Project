@@ -1,0 +1,251 @@
+event_id,match_id,minute,team,player,event_type,x,y,outcome
+1,1,35,Tottenham,Player_Man United_3,Goal,2.75,7.98,Fail
+2,1,52,Liverpool,Player_Leicester_1,Tackle,67.5,78.74,Success
+3,1,64,Arsenal,Player_Chelsea_3,Goal,99.23,67.57,Success
+4,1,72,Arsenal,Player_Man City_1,Goal,96.69,36.65,Fail
+5,1,27,West Ham,Player_Man United_3,Tackle,49.83,13.34,Fail
+6,2,41,Chelsea,Player_Liverpool_3,Tackle,33.37,94.84,Fail
+7,2,12,Newcastle,Player_Tottenham_2,Pass,39.11,53.05,Success
+8,2,12,Leicester,Player_Newcastle_3,Tackle,4.1,94.96,Success
+9,2,8,Leicester,Player_Liverpool_3,Shot,11.2,81.86,Fail
+10,2,41,Tottenham,Player_Liverpool_1,Tackle,7.74,45.74,Success
+11,3,38,Aston Villa,Player_Man United_3,Goal,89.46,92.17,Fail
+12,3,35,Man City,Player_West Ham_3,Tackle,15.9,88.77,Fail
+13,3,87,Man City,Player_Leicester_1,Tackle,18.53,14.02,Success
+14,3,71,Man City,Player_Liverpool_3,Goal,40.03,82.35,Fail
+15,3,77,Man United,Player_West Ham_2,Tackle,74.26,75.1,Fail
+16,4,82,Leicester,Player_Newcastle_2,Shot,36.74,39.52,Success
+17,4,46,Man United,Player_West Ham_2,Goal,47.66,89.36,Success
+18,4,17,Tottenham,Player_Man United_1,Shot,10.43,16.71,Success
+19,4,70,Newcastle,Player_Arsenal_1,Tackle,23.68,83.35,Fail
+20,4,61,Leicester,Player_Man City_1,Pass,35.98,20.21,Fail
+21,5,27,Chelsea,Player_Chelsea_2,Tackle,25.1,42.04,Fail
+22,5,25,Chelsea,Player_Man City_2,Pass,70.73,72.8,Success
+23,5,83,Tottenham,Player_Man City_3,Shot,86.23,17.75,Success
+24,5,35,Newcastle,Player_Man United_3,Pass,32.1,57.68,Success
+25,5,79,Tottenham,Player_Newcastle_3,Goal,22.78,5.41,Fail
+26,6,41,Aston Villa,Player_Newcastle_2,Shot,58.8,53.86,Fail
+27,6,89,Newcastle,Player_Leicester_3,Goal,16.94,38.6,Fail
+28,6,14,Arsenal,Player_West Ham_2,Goal,99.53,12.82,Success
+29,6,40,Chelsea,Player_Man United_1,Goal,79.79,0.88,Success
+30,6,23,Tottenham,Player_Liverpool_2,Shot,14.69,66.98,Success
+31,7,84,Tottenham,Player_Leicester_3,Goal,4.98,89.87,Success
+32,7,18,Chelsea,Player_Tottenham_1,Shot,13.86,50.22,Success
+33,7,70,Arsenal,Player_Liverpool_1,Shot,82.2,52.29,Success
+34,7,63,Liverpool,Player_Man City_3,Shot,13.18,11.65,Success
+35,7,7,Aston Villa,Player_Liverpool_1,Pass,62.64,33.67,Fail
+36,8,87,Leicester,Player_Tottenham_2,Pass,51.1,83.33,Success
+37,8,49,Man City,Player_Chelsea_3,Pass,29.74,43.09,Fail
+38,8,41,Liverpool,Player_Man United_1,Tackle,81.15,56.25,Fail
+39,8,68,Man United,Player_Man City_1,Goal,98.69,22.91,Success
+40,8,14,Leicester,Player_Aston Villa_1,Shot,60.2,75.18,Success
+41,9,75,Man City,Player_Man United_1,Shot,64.51,62.54,Fail
+42,9,7,Aston Villa,Player_Tottenham_3,Pass,83.55,59.81,Success
+43,9,18,Man City,Player_Chelsea_1,Pass,76.29,9.23,Fail
+44,9,21,Man United,Player_Liverpool_1,Tackle,70.09,27.73,Success
+45,9,54,Newcastle,Player_West Ham_2,Shot,45.54,65.93,Success
+46,10,3,Man United,Player_West Ham_3,Pass,41.86,26.15,Fail
+47,10,26,West Ham,Player_Tottenham_2,Goal,77.22,69.33,Fail
+48,10,50,Aston Villa,Player_Man City_3,Goal,61.27,61.52,Fail
+49,10,61,Aston Villa,Player_Liverpool_1,Tackle,30.95,17.04,Fail
+50,10,79,Man City,Player_Leicester_1,Pass,68.22,30.78,Success
+51,11,39,Leicester,Player_Leicester_3,Shot,1.26,87.05,Success
+52,11,41,Tottenham,Player_Arsenal_2,Tackle,79.24,66.45,Fail
+53,11,61,Chelsea,Player_Man United_2,Shot,28.26,57.42,Success
+54,11,78,Liverpool,Player_Chelsea_3,Goal,72.11,63.32,Fail
+55,11,11,Man United,Player_Newcastle_3,Goal,47.88,78.85,Success
+56,12,39,Liverpool,Player_Newcastle_1,Pass,20.29,70.36,Fail
+57,12,90,West Ham,Player_Newcastle_2,Goal,52.4,23.47,Success
+58,12,34,Leicester,Player_Arsenal_2,Pass,13.84,62.15,Fail
+59,12,59,Newcastle,Player_Chelsea_1,Goal,39.5,96.11,Fail
+60,12,29,Man City,Player_Liverpool_2,Shot,53.26,81.74,Success
+61,13,87,West Ham,Player_Tottenham_3,Shot,5.38,70.71,Fail
+62,13,35,Man City,Player_Tottenham_2,Shot,36.45,36.12,Fail
+63,13,59,West Ham,Player_Arsenal_3,Pass,27.97,2.94,Success
+64,13,19,Liverpool,Player_Newcastle_3,Pass,32.17,53.77,Success
+65,13,14,Man United,Player_Leicester_1,Shot,67.83,13.64,Success
+66,14,66,Arsenal,Player_Man City_1,Tackle,47.32,94.44,Fail
+67,14,13,Tottenham,Player_Aston Villa_1,Tackle,10.7,78.42,Fail
+68,14,62,Man United,Player_Leicester_2,Tackle,50.93,96.73,Success
+69,14,56,Arsenal,Player_Man City_2,Shot,34.94,97.5,Success
+70,14,70,Chelsea,Player_Aston Villa_2,Goal,42.86,23.99,Success
+71,15,6,Liverpool,Player_Newcastle_2,Shot,59.31,96.65,Fail
+72,15,3,Liverpool,Player_Man City_1,Shot,96.84,56.59,Success
+73,15,47,Newcastle,Player_Arsenal_3,Shot,92.94,91.27,Success
+74,15,25,Man City,Player_Tottenham_3,Shot,0.63,40.53,Fail
+75,15,29,West Ham,Player_Newcastle_3,Shot,52.56,99.63,Fail
+76,16,17,Newcastle,Player_West Ham_3,Pass,42.69,45.98,Fail
+77,16,24,Arsenal,Player_Newcastle_1,Goal,94.6,59.92,Fail
+78,16,77,Liverpool,Player_Tottenham_1,Pass,85.27,14.56,Fail
+79,16,82,Liverpool,Player_Chelsea_2,Goal,56.98,25.04,Fail
+80,16,25,Aston Villa,Player_Man United_3,Goal,43.54,77.48,Fail
+81,17,51,Arsenal,Player_Leicester_3,Shot,42.65,93.13,Success
+82,17,73,Leicester,Player_Tottenham_1,Tackle,68.64,24.71,Fail
+83,17,80,Tottenham,Player_Tottenham_2,Goal,90.74,24.62,Success
+84,17,47,Aston Villa,Player_Man City_1,Goal,10.97,68.45,Success
+85,17,56,Newcastle,Player_Chelsea_1,Goal,62.42,45.46,Fail
+86,18,90,Aston Villa,Player_Newcastle_2,Tackle,91.33,55.7,Success
+87,18,86,Liverpool,Player_Liverpool_2,Pass,40.85,49.88,Success
+88,18,41,Newcastle,Player_Liverpool_3,Goal,29.92,71.44,Fail
+89,18,2,Tottenham,Player_Aston Villa_1,Goal,59.23,20.61,Success
+90,18,47,Chelsea,Player_Arsenal_1,Tackle,60.5,73.32,Success
+91,19,11,Tottenham,Player_Leicester_2,Goal,40.23,91.91,Fail
+92,19,3,Chelsea,Player_Newcastle_2,Tackle,3.04,49.35,Success
+93,19,52,Arsenal,Player_Man City_2,Goal,65.14,61.34,Success
+94,19,74,Aston Villa,Player_Newcastle_3,Pass,22.3,61.23,Success
+95,19,51,Tottenham,Player_Man City_1,Goal,46.54,27.94,Success
+96,20,31,West Ham,Player_Man City_3,Tackle,84.54,98.12,Success
+97,20,84,Man City,Player_Tottenham_3,Pass,20.95,46.84,Fail
+98,20,27,Man United,Player_Newcastle_1,Pass,0.16,76.71,Fail
+99,20,26,Liverpool,Player_Aston Villa_1,Pass,84.4,61.52,Success
+100,20,28,Man City,Player_Aston Villa_2,Shot,62.12,45.65,Success
+101,21,51,Liverpool,Player_Liverpool_3,Shot,1.04,87.75,Fail
+102,21,47,Arsenal,Player_Newcastle_1,Goal,38.04,7.61,Fail
+103,21,59,Liverpool,Player_Chelsea_2,Shot,26.69,87.01,Success
+104,21,38,Leicester,Player_Aston Villa_2,Tackle,91.58,54.7,Success
+105,21,17,Chelsea,Player_Man United_2,Pass,58.69,46.39,Success
+106,22,44,Arsenal,Player_Aston Villa_2,Goal,78.35,15.4,Success
+107,22,82,West Ham,Player_Man City_3,Tackle,80.44,64.5,Success
+108,22,29,Liverpool,Player_Leicester_3,Shot,32.32,27.27,Fail
+109,22,79,Chelsea,Player_Tottenham_2,Pass,35.13,95.71,Success
+110,22,3,Man United,Player_Tottenham_3,Shot,34.05,14.96,Success
+111,23,7,Leicester,Player_Leicester_1,Pass,97.19,49.32,Fail
+112,23,85,Tottenham,Player_Tottenham_1,Tackle,29.71,89.05,Success
+113,23,12,Chelsea,Player_Arsenal_1,Pass,35.23,84.59,Success
+114,23,73,Man United,Player_Leicester_1,Pass,8.93,92.99,Success
+115,23,24,Tottenham,Player_Arsenal_3,Goal,21,64.95,Success
+116,24,64,Tottenham,Player_Man United_2,Tackle,92.43,52.7,Success
+117,24,88,Arsenal,Player_Chelsea_2,Goal,14.49,76.6,Success
+118,24,70,Man United,Player_Newcastle_2,Shot,8.61,83.4,Success
+119,24,80,Man City,Player_Aston Villa_1,Shot,53.71,31.37,Success
+120,24,59,Man City,Player_Aston Villa_1,Goal,45.59,31.36,Success
+121,25,51,Tottenham,Player_Chelsea_1,Shot,56.33,74.68,Fail
+122,25,31,Tottenham,Player_Tottenham_3,Tackle,42.31,4.35,Success
+123,25,22,Liverpool,Player_West Ham_3,Goal,15.1,10.43,Fail
+124,25,1,Newcastle,Player_Man United_3,Shot,42.21,68.92,Success
+125,25,1,Man City,Player_Man United_2,Pass,79.5,38.02,Fail
+126,26,35,Liverpool,Player_Chelsea_3,Tackle,80.98,56.96,Fail
+127,26,54,Man United,Player_Newcastle_1,Goal,48.36,84.23,Fail
+128,26,84,Newcastle,Player_Chelsea_3,Goal,29.46,57.65,Fail
+129,26,42,West Ham,Player_Aston Villa_2,Shot,56.33,25.54,Fail
+130,26,12,West Ham,Player_Man United_3,Goal,52.38,27.84,Success
+131,27,14,Tottenham,Player_Leicester_3,Pass,98.38,43.34,Success
+132,27,21,Leicester,Player_Man United_1,Shot,30.79,45.57,Success
+133,27,24,Tottenham,Player_Aston Villa_1,Pass,89.83,55.29,Fail
+134,27,51,Leicester,Player_Arsenal_2,Tackle,23.29,16.15,Fail
+135,27,26,Man City,Player_West Ham_2,Pass,50.19,25.51,Fail
+136,28,21,West Ham,Player_Liverpool_3,Shot,64.6,95.9,Success
+137,28,63,Arsenal,Player_Leicester_2,Pass,55.43,93.87,Success
+138,28,24,Aston Villa,Player_Man City_2,Goal,4.77,36.74,Fail
+139,28,65,Man United,Player_Aston Villa_1,Tackle,4.76,32.09,Fail
+140,28,50,Man City,Player_Chelsea_3,Goal,13.47,69.43,Fail
+141,29,23,Chelsea,Player_Aston Villa_1,Shot,41.92,83.24,Success
+142,29,47,Arsenal,Player_Arsenal_1,Pass,97.59,65.21,Fail
+143,29,79,Newcastle,Player_Aston Villa_1,Tackle,10.31,0.73,Success
+144,29,68,Arsenal,Player_Aston Villa_3,Shot,15.49,29.53,Success
+145,29,76,Arsenal,Player_Newcastle_3,Shot,92.97,89.89,Success
+146,30,86,Newcastle,Player_Aston Villa_1,Pass,41.16,23.64,Success
+147,30,56,West Ham,Player_Aston Villa_2,Shot,57.49,10.21,Success
+148,30,86,Arsenal,Player_Liverpool_1,Pass,67.99,17.6,Success
+149,30,75,Liverpool,Player_Chelsea_1,Pass,64.53,28.15,Success
+150,30,17,Man City,Player_Newcastle_3,Pass,98.9,35.98,Success
+151,31,50,Man City,Player_Liverpool_1,Tackle,0.3,22.87,Fail
+152,31,70,Tottenham,Player_Man City_1,Tackle,99.96,4.25,Fail
+153,31,65,Chelsea,Player_Tottenham_1,Pass,60.82,35.45,Fail
+154,31,83,West Ham,Player_Man United_2,Shot,95.18,18.66,Success
+155,31,17,West Ham,Player_Newcastle_3,Shot,46.15,60.71,Fail
+156,32,49,Arsenal,Player_Chelsea_2,Pass,47.95,52.28,Success
+157,32,14,Newcastle,Player_Liverpool_1,Tackle,34.11,43.71,Success
+158,32,61,West Ham,Player_Liverpool_3,Tackle,92.43,73.01,Success
+159,32,27,Arsenal,Player_Chelsea_1,Tackle,5.65,44.23,Success
+160,32,10,Man City,Player_Liverpool_2,Shot,2.69,38.68,Fail
+161,33,76,West Ham,Player_West Ham_3,Goal,62.67,94.81,Success
+162,33,26,Liverpool,Player_Chelsea_1,Pass,8.08,71.4,Fail
+163,33,24,Chelsea,Player_Leicester_1,Tackle,19.7,60.82,Success
+164,33,1,Arsenal,Player_West Ham_3,Shot,90.56,80.13,Fail
+165,33,83,Aston Villa,Player_Arsenal_1,Shot,84.13,96.96,Fail
+166,34,89,Chelsea,Player_Liverpool_2,Tackle,78.27,97.55,Success
+167,34,11,Liverpool,Player_Liverpool_1,Goal,99.15,27.69,Fail
+168,34,77,Chelsea,Player_Liverpool_3,Pass,87.3,37.66,Success
+169,34,63,Man City,Player_West Ham_1,Goal,11.29,39.28,Fail
+170,34,6,Arsenal,Player_Man United_3,Goal,45.91,95.1,Success
+171,35,71,Leicester,Player_Man United_2,Shot,78.16,81.12,Fail
+172,35,58,Man United,Player_Chelsea_1,Tackle,30.32,94.95,Fail
+173,35,87,Man City,Player_Leicester_1,Pass,88.07,24.32,Success
+174,35,69,Arsenal,Player_Liverpool_3,Pass,38.99,43.26,Success
+175,35,83,Liverpool,Player_Aston Villa_2,Shot,5.97,20.7,Fail
+176,36,24,Leicester,Player_Leicester_1,Pass,49.8,34.85,Success
+177,36,79,Newcastle,Player_Tottenham_3,Pass,10.28,28.76,Success
+178,36,35,Man City,Player_Leicester_1,Shot,82,93.87,Success
+179,36,68,Aston Villa,Player_West Ham_2,Goal,45.18,76.02,Success
+180,36,53,Arsenal,Player_Man City_1,Pass,82.02,9.86,Fail
+181,37,85,Leicester,Player_Leicester_3,Pass,55.77,29.95,Success
+182,37,16,Leicester,Player_West Ham_1,Pass,2.75,72.62,Success
+183,37,78,West Ham,Player_Aston Villa_3,Tackle,62.78,39.68,Success
+184,37,32,Chelsea,Player_Newcastle_1,Pass,58.59,95.59,Fail
+185,37,28,Arsenal,Player_West Ham_2,Shot,19.11,6.14,Fail
+186,38,20,Newcastle,Player_Newcastle_2,Shot,59.39,41.65,Fail
+187,38,67,Liverpool,Player_Tottenham_2,Pass,10.48,84.27,Fail
+188,38,87,Tottenham,Player_Tottenham_1,Tackle,46.54,78.55,Fail
+189,38,79,Leicester,Player_Arsenal_1,Shot,74.94,73.83,Success
+190,38,54,Newcastle,Player_Man United_2,Goal,87.22,28.11,Success
+191,39,3,Man United,Player_Arsenal_1,Pass,60.9,34.92,Success
+192,39,71,Chelsea,Player_West Ham_2,Tackle,29.45,90.84,Success
+193,39,87,Chelsea,Player_Man City_2,Tackle,18.06,65.84,Success
+194,39,63,Man United,Player_Liverpool_3,Tackle,29.4,32.56,Fail
+195,39,50,Newcastle,Player_Leicester_2,Shot,39.51,99.44,Success
+196,40,51,Chelsea,Player_Man City_2,Goal,76.6,68.22,Success
+197,40,58,Newcastle,Player_Man United_1,Tackle,91.86,98.86,Fail
+198,40,64,Arsenal,Player_Tottenham_3,Tackle,63.1,88.75,Success
+199,40,11,West Ham,Player_Leicester_3,Shot,17.25,67.64,Success
+200,40,5,Man United,Player_Leicester_3,Goal,77.81,39.71,Success
+201,41,65,Newcastle,Player_Leicester_2,Tackle,60.57,39.25,Success
+202,41,37,Man United,Player_Chelsea_3,Shot,19.9,19.91,Fail
+203,41,25,Man United,Player_Newcastle_1,Tackle,88.82,58.67,Success
+204,41,32,Arsenal,Player_Chelsea_1,Goal,65.8,37.96,Success
+205,41,52,Man United,Player_Liverpool_1,Shot,67.29,42.12,Fail
+206,42,27,Tottenham,Player_Arsenal_3,Goal,94.76,68.93,Fail
+207,42,35,Newcastle,Player_Tottenham_1,Pass,42.7,23.71,Fail
+208,42,88,Man United,Player_Liverpool_1,Goal,86.34,98.33,Fail
+209,42,68,Arsenal,Player_Liverpool_3,Tackle,91.01,31.52,Fail
+210,42,13,Arsenal,Player_Arsenal_3,Pass,92.27,17.12,Fail
+211,43,84,Leicester,Player_Liverpool_2,Pass,76.03,62.89,Success
+212,43,68,Leicester,Player_Liverpool_3,Goal,33.76,75.61,Success
+213,43,39,Man City,Player_Chelsea_1,Goal,75.94,45.34,Fail
+214,43,59,Man United,Player_Chelsea_2,Goal,2.85,42.19,Fail
+215,43,30,Liverpool,Player_West Ham_3,Tackle,52.01,28.45,Success
+216,44,83,Man United,Player_Man City_3,Goal,68.28,68.34,Success
+217,44,48,Liverpool,Player_Leicester_1,Pass,58.34,43.23,Success
+218,44,18,Man United,Player_Aston Villa_1,Tackle,58,97.69,Success
+219,44,69,Arsenal,Player_Aston Villa_1,Goal,0.74,54.38,Success
+220,44,83,Chelsea,Player_Tottenham_3,Tackle,16.99,17.98,Fail
+221,45,20,Newcastle,Player_Man City_2,Shot,68.52,58.4,Fail
+222,45,22,Arsenal,Player_Man United_1,Pass,24.63,11.84,Success
+223,45,11,Tottenham,Player_Liverpool_2,Tackle,5.14,26.77,Success
+224,45,49,Chelsea,Player_Liverpool_1,Pass,42.11,70.47,Fail
+225,45,18,Man City,Player_Arsenal_3,Shot,36.62,72.49,Success
+226,46,61,Tottenham,Player_Aston Villa_2,Tackle,81.11,91.3,Fail
+227,46,70,Leicester,Player_Liverpool_3,Shot,2.69,54.52,Fail
+228,46,31,Leicester,Player_Liverpool_2,Pass,24.29,40.94,Fail
+229,46,88,Man United,Player_Chelsea_2,Tackle,66.04,43.69,Fail
+230,46,43,Liverpool,Player_Man City_1,Shot,92.93,94.07,Fail
+231,47,5,West Ham,Player_Man City_3,Goal,97.27,93.48,Success
+232,47,60,Chelsea,Player_Tottenham_1,Goal,69.67,78.83,Success
+233,47,45,Man City,Player_Aston Villa_3,Goal,32.24,67.96,Fail
+234,47,76,West Ham,Player_Liverpool_3,Goal,58.68,41.5,Success
+235,47,19,Leicester,Player_Newcastle_2,Pass,90.59,21.27,Success
+236,48,7,Chelsea,Player_Arsenal_2,Goal,7.43,54.51,Fail
+237,48,49,Liverpool,Player_Man City_2,Pass,76.97,2.38,Fail
+238,48,24,West Ham,Player_Chelsea_2,Tackle,77.26,10.28,Success
+239,48,90,Man City,Player_Liverpool_1,Pass,11.59,3.98,Success
+240,48,65,Tottenham,Player_Arsenal_2,Pass,33.39,3.9,Fail
+241,49,71,Man City,Player_Chelsea_2,Pass,98.79,24,Fail
+242,49,65,Arsenal,Player_Tottenham_3,Goal,30.31,48.8,Success
+243,49,74,Liverpool,Player_Leicester_3,Pass,8.12,3.11,Success
+244,49,30,Newcastle,Player_Chelsea_1,Goal,33.26,69.62,Success
+245,49,10,Man City,Player_Man United_3,Pass,15.47,47.88,Fail
+246,50,62,West Ham,Player_Man United_3,Goal,76.78,13.25,Fail
+247,50,63,West Ham,Player_West Ham_3,Tackle,88.15,9.43,Fail
+248,50,7,Chelsea,Player_Man City_2,Tackle,78.06,20.61,Success
+249,50,81,Tottenham,Player_Newcastle_3,Tackle,97.65,79.75,Success
+250,50,16,Man United,Player_Newcastle_2,Shot,14.86,79.36,Success
