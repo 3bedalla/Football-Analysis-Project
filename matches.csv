@@ -1,51 +1,51 @@
-match_id,date,season,league,home_team,away_team,home_goals,away_goals,venue,home_possession,away_possession,home_shots,away_shots,home_xg,away_xg,home_pass_accuracy,away_pass_accuracy
-1,2024-08-04,2024/2025,Premier League,Man United,Chelsea,0,1,Old Trafford,42.3,57.7,15,9,1.4,0.92,90.2,91.3
-2,2024-08-07,2024/2025,Premier League,Chelsea,Arsenal,1,0,Stamford Bridge,55.1,44.9,13,9,2.02,1.95,74,80.8
-3,2024-08-10,2024/2025,Premier League,Aston Villa,Leicester,0,2,Villa Park,60.1,39.9,13,7,2.65,1.77,79.3,93.4
-4,2024-08-13,2024/2025,Premier League,Tottenham,Man United,0,2,Tottenham Hotspur Stadium,46.7,53.3,5,15,0.59,0.57,81.6,78
-5,2024-08-16,2024/2025,Premier League,Man City,Chelsea,3,2,Etihad Stadium,50.6,49.4,14,18,2.71,0.91,74.4,75.8
-6,2024-08-19,2024/2025,Premier League,West Ham,Newcastle,3,1,London Stadium,48.1,51.9,5,13,0.84,1.78,95,86.9
-7,2024-08-22,2024/2025,Premier League,Man United,West Ham,1,1,Old Trafford,64.9,35.1,19,13,1.61,1.54,83.1,92.7
-8,2024-08-25,2024/2025,Premier League,Arsenal,West Ham,2,1,Emirates Stadium,59.7,40.3,19,16,1.38,2.95,94,74
-9,2024-08-28,2024/2025,Premier League,Newcastle,Chelsea,1,3,St James' Park,57.9,42.1,16,6,1.65,1.83,82.3,93.1
-10,2024-08-31,2024/2025,Premier League,Leicester,West Ham,3,1,King Power Stadium,52.9,47.1,10,14,2.49,2.15,81.4,92.6
-11,2024-09-03,2024/2025,Premier League,Chelsea,Leicester,0,0,Stamford Bridge,54.2,45.8,17,19,2.8,2.31,82.2,75.5
-12,2024-09-06,2024/2025,Premier League,Leicester,Arsenal,2,1,King Power Stadium,60.4,39.6,10,5,2.59,2.69,85.4,89.3
-13,2024-09-09,2024/2025,Premier League,Aston Villa,West Ham,0,1,Villa Park,47.7,52.3,18,19,2.89,2.27,82.6,82.9
-14,2024-09-12,2024/2025,Premier League,Leicester,Man City,0,0,King Power Stadium,54.7,45.3,5,11,1.28,1.02,82.8,93.4
-15,2024-09-15,2024/2025,Premier League,Arsenal,Liverpool,0,1,Emirates Stadium,62.1,37.9,9,11,2.46,1.35,70.2,90.4
-16,2024-09-18,2024/2025,Premier League,West Ham,Arsenal,0,0,London Stadium,41.5,58.5,7,17,2.13,1.18,75.7,91.9
-17,2024-09-21,2024/2025,Premier League,West Ham,Arsenal,3,1,London Stadium,58.9,41.1,15,12,0.84,1.16,90.6,93.6
-18,2024-09-24,2024/2025,Premier League,Leicester,West Ham,3,3,King Power Stadium,50.6,49.4,8,19,2.29,0.58,79.1,74.3
-19,2024-09-27,2024/2025,Premier League,Arsenal,Aston Villa,2,0,Emirates Stadium,42.1,57.9,17,8,2.89,0.56,88.2,70.5
-20,2024-09-30,2024/2025,Premier League,Chelsea,Arsenal,0,0,Stamford Bridge,43.2,56.8,18,5,2.84,2.34,83.1,70
-21,2024-10-03,2024/2025,Premier League,Man City,Man United,0,0,Etihad Stadium,41.1,58.9,5,19,2.98,0.88,70.9,78.6
-22,2024-10-06,2024/2025,Premier League,West Ham,Leicester,2,2,London Stadium,55.7,44.3,10,15,2.37,1.22,82.2,77.7
-23,2024-10-09,2024/2025,Premier League,Newcastle,Man City,0,2,St James' Park,59.1,40.9,12,17,2.35,2.76,88.9,91.6
-24,2024-10-12,2024/2025,Premier League,Man United,West Ham,0,1,Old Trafford,51.8,48.2,13,17,1.06,2.15,77.9,72.6
-25,2024-10-15,2024/2025,Premier League,Leicester,Liverpool,1,0,King Power Stadium,59.7,40.3,14,7,2.87,1.8,89.5,82.2
-26,2024-10-18,2024/2025,Premier League,West Ham,Newcastle,2,1,London Stadium,43.6,56.4,6,5,2.9,1.15,85.2,80.5
-27,2024-10-21,2024/2025,Premier League,Newcastle,West Ham,2,1,St James' Park,57.5,42.5,19,19,2.9,2.18,76.3,73.3
-28,2024-10-24,2024/2025,Premier League,West Ham,Man United,2,1,London Stadium,42.4,57.6,10,14,2.09,1.77,94.6,93.4
-29,2024-10-27,2024/2025,Premier League,Chelsea,Man United,0,1,Stamford Bridge,45.8,54.2,12,16,1.61,1.13,84.8,85.6
-30,2024-10-30,2024/2025,Premier League,Liverpool,West Ham,2,0,Anfield,57.7,42.3,19,14,1.14,1.56,83.2,70.1
-31,2024-11-02,2024/2025,Premier League,Liverpool,Man City,2,1,Anfield,49.6,50.4,14,13,0.9,1.78,72.2,72.5
-32,2024-11-05,2024/2025,Premier League,Aston Villa,Arsenal,2,2,Villa Park,44.5,55.5,10,15,1.08,1.04,83,81.6
-33,2024-11-08,2024/2025,Premier League,West Ham,Tottenham,3,0,London Stadium,53.4,46.6,11,10,1.45,2.21,89,75.3
-34,2024-11-11,2024/2025,Premier League,Man City,Leicester,2,0,Etihad Stadium,50.6,49.4,16,17,0.55,1.98,92,93.2
-35,2024-11-14,2024/2025,Premier League,Aston Villa,West Ham,2,0,Villa Park,44.5,55.5,6,5,0.73,2.51,79.2,83
-36,2024-11-17,2024/2025,Premier League,Man City,Newcastle,3,1,Etihad Stadium,55.3,44.7,12,9,1.22,2.96,79.3,70.5
-37,2024-11-20,2024/2025,Premier League,Leicester,Tottenham,0,1,King Power Stadium,42.5,57.5,16,10,1.26,2.6,86.8,70.4
-38,2024-11-23,2024/2025,Premier League,Aston Villa,Man United,2,3,Villa Park,41.5,58.5,5,17,2.09,1.66,92.2,85.3
-39,2024-11-26,2024/2025,Premier League,Newcastle,Aston Villa,0,1,St James' Park,47.1,52.9,11,10,1.43,2.84,71.9,88.9
-40,2024-11-29,2024/2025,Premier League,West Ham,Tottenham,0,2,London Stadium,42.9,57.1,12,12,1.43,2.29,73.5,78.6
-41,2024-12-02,2024/2025,Premier League,Chelsea,Arsenal,2,1,Stamford Bridge,46.4,53.6,5,12,0.81,2.04,78.4,79.8
-42,2024-12-05,2024/2025,Premier League,Man City,West Ham,0,1,Etihad Stadium,57.3,42.7,17,15,0.56,2.15,89.4,88.1
-43,2024-12-08,2024/2025,Premier League,Man United,West Ham,0,0,Old Trafford,47.3,52.7,17,7,2.9,0.85,79.4,82.1
-44,2024-12-11,2024/2025,Premier League,Newcastle,Tottenham,3,0,St James' Park,58,42,7,13,2.32,1.55,82.3,87
-45,2024-12-14,2024/2025,Premier League,Tottenham,Man United,3,2,Tottenham Hotspur Stadium,45.8,54.2,10,6,1.72,1.15,80.7,87
-46,2024-12-17,2024/2025,Premier League,Chelsea,Newcastle,3,1,Stamford Bridge,54.6,45.4,16,17,2.54,0.74,78.9,94.9
-47,2024-12-20,2024/2025,Premier League,Man United,Newcastle,3,1,Old Trafford,60.2,39.8,7,19,2.75,2.5,92.8,87
-48,2024-12-23,2024/2025,Premier League,Newcastle,Chelsea,4,1,St James' Park,43.2,56.8,12,18,1.24,1.08,86.8,87
-49,2024-12-26,2024/2025,Premier League,Man City,Aston Villa,1,1,Etihad Stadium,44.3,55.7,18,12,1.22,0.89,94.7,94.2
-50,2024-12-29,2024/2025,Premier League,Man City,Aston Villa,1,1,Etihad Stadium,42.4,57.6,10,12,1.79,2.29,76.4,92.4
+match_id,date,season,league,home_team,away_team,home_goals,away_goals,venue,home_possession,away_possession,home_shots,away_shots,home_xg,away_xg,home_pass_accuracy,away_pass_accuracy,home_win
+1,2024-08-04,2024/2025,Premier League,Man United,Chelsea,0,1,Old Trafford,42.3,57.7,15,9,1.4,0.92,90.2,91.3,Loss
+2,2024-08-07,2024/2025,Premier League,Chelsea,Arsenal,1,0,Stamford Bridge,55.1,44.9,13,9,2.02,1.95,74,80.8,Win
+3,2024-08-10,2024/2025,Premier League,Aston Villa,Leicester,0,2,Villa Park,60.1,39.9,13,7,2.65,1.77,79.3,93.4,Loss
+4,2024-08-13,2024/2025,Premier League,Tottenham,Man United,0,2,Tottenham Hotspur Stadium,46.7,53.3,5,15,0.59,0.57,81.6,78,Loss
+5,2024-08-16,2024/2025,Premier League,Man City,Chelsea,3,2,Etihad Stadium,50.6,49.4,14,18,2.71,0.91,74.4,75.8,Win
+6,2024-08-19,2024/2025,Premier League,West Ham,Newcastle,3,1,London Stadium,48.1,51.9,5,13,0.84,1.78,95,86.9,Win
+7,2024-08-22,2024/2025,Premier League,Man United,West Ham,1,1,Old Trafford,64.9,35.1,19,13,1.61,1.54,83.1,92.7,Draw
+8,2024-08-25,2024/2025,Premier League,Arsenal,West Ham,2,1,Emirates Stadium,59.7,40.3,19,16,1.38,2.95,94,74,Win
+9,2024-08-28,2024/2025,Premier League,Newcastle,Chelsea,1,3,St James' Park,57.9,42.1,16,6,1.65,1.83,82.3,93.1,Loss
+10,2024-08-31,2024/2025,Premier League,Leicester,West Ham,3,1,King Power Stadium,52.9,47.1,10,14,2.49,2.15,81.4,92.6,Win
+11,2024-09-03,2024/2025,Premier League,Chelsea,Leicester,0,0,Stamford Bridge,54.2,45.8,17,19,2.8,2.31,82.2,75.5,Draw
+12,2024-09-06,2024/2025,Premier League,Leicester,Arsenal,2,1,King Power Stadium,60.4,39.6,10,5,2.59,2.69,85.4,89.3,Win
+13,2024-09-09,2024/2025,Premier League,Aston Villa,West Ham,0,1,Villa Park,47.7,52.3,18,19,2.89,2.27,82.6,82.9,Loss
+14,2024-09-12,2024/2025,Premier League,Leicester,Man City,0,0,King Power Stadium,54.7,45.3,5,11,1.28,1.02,82.8,93.4,Draw
+15,2024-09-15,2024/2025,Premier League,Arsenal,Liverpool,0,1,Emirates Stadium,62.1,37.9,9,11,2.46,1.35,70.2,90.4,Loss
+16,2024-09-18,2024/2025,Premier League,West Ham,Arsenal,0,0,London Stadium,41.5,58.5,7,17,2.13,1.18,75.7,91.9,Draw
+17,2024-09-21,2024/2025,Premier League,West Ham,Arsenal,3,1,London Stadium,58.9,41.1,15,12,0.84,1.16,90.6,93.6,Win
+18,2024-09-24,2024/2025,Premier League,Leicester,West Ham,3,3,King Power Stadium,50.6,49.4,8,19,2.29,0.58,79.1,74.3,Draw
+19,2024-09-27,2024/2025,Premier League,Arsenal,Aston Villa,2,0,Emirates Stadium,42.1,57.9,17,8,2.89,0.56,88.2,70.5,Win
+20,2024-09-30,2024/2025,Premier League,Chelsea,Arsenal,0,0,Stamford Bridge,43.2,56.8,18,5,2.84,2.34,83.1,70,Draw
+21,2024-10-03,2024/2025,Premier League,Man City,Man United,0,0,Etihad Stadium,41.1,58.9,5,19,2.98,0.88,70.9,78.6,Draw
+22,2024-10-06,2024/2025,Premier League,West Ham,Leicester,2,2,London Stadium,55.7,44.3,10,15,2.37,1.22,82.2,77.7,Draw
+23,2024-10-09,2024/2025,Premier League,Newcastle,Man City,0,2,St James' Park,59.1,40.9,12,17,2.35,2.76,88.9,91.6,Loss
+24,2024-10-12,2024/2025,Premier League,Man United,West Ham,0,1,Old Trafford,51.8,48.2,13,17,1.06,2.15,77.9,72.6,Loss
+25,2024-10-15,2024/2025,Premier League,Leicester,Liverpool,1,0,King Power Stadium,59.7,40.3,14,7,2.87,1.8,89.5,82.2,Win
+26,2024-10-18,2024/2025,Premier League,West Ham,Newcastle,2,1,London Stadium,43.6,56.4,6,5,2.9,1.15,85.2,80.5,Win
+27,2024-10-21,2024/2025,Premier League,Newcastle,West Ham,2,1,St James' Park,57.5,42.5,19,19,2.9,2.18,76.3,73.3,Win
+28,2024-10-24,2024/2025,Premier League,West Ham,Man United,2,1,London Stadium,42.4,57.6,10,14,2.09,1.77,94.6,93.4,Win
+29,2024-10-27,2024/2025,Premier League,Chelsea,Man United,0,1,Stamford Bridge,45.8,54.2,12,16,1.61,1.13,84.8,85.6,Loss
+30,2024-10-30,2024/2025,Premier League,Liverpool,West Ham,2,0,Anfield,57.7,42.3,19,14,1.14,1.56,83.2,70.1,Win
+31,2024-11-02,2024/2025,Premier League,Liverpool,Man City,2,1,Anfield,49.6,50.4,14,13,0.9,1.78,72.2,72.5,Win
+32,2024-11-05,2024/2025,Premier League,Aston Villa,Arsenal,2,2,Villa Park,44.5,55.5,10,15,1.08,1.04,83,81.6,Draw
+33,2024-11-08,2024/2025,Premier League,West Ham,Tottenham,3,0,London Stadium,53.4,46.6,11,10,1.45,2.21,89,75.3,Win
+34,2024-11-11,2024/2025,Premier League,Man City,Leicester,2,0,Etihad Stadium,50.6,49.4,16,17,0.55,1.98,92,93.2,Win
+35,2024-11-14,2024/2025,Premier League,Aston Villa,West Ham,2,0,Villa Park,44.5,55.5,6,5,0.73,2.51,79.2,83,Win
+36,2024-11-17,2024/2025,Premier League,Man City,Newcastle,3,1,Etihad Stadium,55.3,44.7,12,9,1.22,2.96,79.3,70.5,Win
+37,2024-11-20,2024/2025,Premier League,Leicester,Tottenham,0,1,King Power Stadium,42.5,57.5,16,10,1.26,2.6,86.8,70.4,Loss
+38,2024-11-23,2024/2025,Premier League,Aston Villa,Man United,2,3,Villa Park,41.5,58.5,5,17,2.09,1.66,92.2,85.3,Loss
+39,2024-11-26,2024/2025,Premier League,Newcastle,Aston Villa,0,1,St James' Park,47.1,52.9,11,10,1.43,2.84,71.9,88.9,Loss
+40,2024-11-29,2024/2025,Premier League,West Ham,Tottenham,0,2,London Stadium,42.9,57.1,12,12,1.43,2.29,73.5,78.6,Loss
+41,2024-12-02,2024/2025,Premier League,Chelsea,Arsenal,2,1,Stamford Bridge,46.4,53.6,5,12,0.81,2.04,78.4,79.8,Win
+42,2024-12-05,2024/2025,Premier League,Man City,West Ham,0,1,Etihad Stadium,57.3,42.7,17,15,0.56,2.15,89.4,88.1,Loss
+43,2024-12-08,2024/2025,Premier League,Man United,West Ham,0,0,Old Trafford,47.3,52.7,17,7,2.9,0.85,79.4,82.1,Draw
+44,2024-12-11,2024/2025,Premier League,Newcastle,Tottenham,3,0,St James' Park,58,42,7,13,2.32,1.55,82.3,87,Win
+45,2024-12-14,2024/2025,Premier League,Tottenham,Man United,3,2,Tottenham Hotspur Stadium,45.8,54.2,10,6,1.72,1.15,80.7,87,Win
+46,2024-12-17,2024/2025,Premier League,Chelsea,Newcastle,3,1,Stamford Bridge,54.6,45.4,16,17,2.54,0.74,78.9,94.9,Win
+47,2024-12-20,2024/2025,Premier League,Man United,Newcastle,3,1,Old Trafford,60.2,39.8,7,19,2.75,2.5,92.8,87,Win
+48,2024-12-23,2024/2025,Premier League,Newcastle,Chelsea,4,1,St James' Park,43.2,56.8,12,18,1.24,1.08,86.8,87,Win
+49,2024-12-26,2024/2025,Premier League,Man City,Aston Villa,1,1,Etihad Stadium,44.3,55.7,18,12,1.22,0.89,94.7,94.2,Draw
+50,2024-12-29,2024/2025,Premier League,Man City,Aston Villa,1,1,Etihad Stadium,42.4,57.6,10,12,1.79,2.29,76.4,92.4,Draw
