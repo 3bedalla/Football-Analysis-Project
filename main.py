@@ -171,3 +171,9 @@ if X_test.shape[0] > 0:
     print(pred_df.head(10))
 else:
     print("Warning: Skipping Top 4 evaluation due to empty test set.")
+
+# creating CSV file for the results
+pred_df.to_csv('predicted_points_next_season.csv', index=False)
+
+#exportng the historical data for trends
+df_lag_clean.to_csv('team_season_features_clean.csv', index=False)
