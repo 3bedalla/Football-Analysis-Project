@@ -1,11 +1,11 @@
 team_id,team_name,country,stadium,logo_link
-1,Arsenal,England,Emirates Stadium,https://drive.google.com/uc?id=1tPYDqi3YbK9K-YOHSl4Q4l6pdyGKfLz9
-2,Chelsea,England,Stamford Bridge,https://drive.google.com/uc?id=1YUA4GbgJEsWG10l9_-7UP5AqUnbzlyT1
-3,Liverpool,England,Anfield,https://drive.google.com/uc?id=1PwrFQpLuNMGn3Ei8gIcpb-V4caILC-fA
-4,Man City,England,Etihad Stadium,https://drive.google.com/file/d/1q9f9Jl9itukRXjiQ7w7kSWIH1UZWsKCb
-5,Man United,England,Old Trafford,https://drive.google.com/file/d/1p9YpfqvbkCx3e3Lt625vUQlzAggfTDTo/view?usp=drive_link
-6,Tottenham,England,Tottenham Hotspur Stadium,https://drive.google.com/file/d/1GCGf22ZRLtjwOEUMV5qh1EDV5ecwfmcC/view?usp=drive_link
-7,Newcastle,England,St James' Park,https://drive.google.com/uc?id=1oGKMdknUaMhu6qK-AsLkS3HhzNKDg2Iy
-8,Aston Villa,England,Villa Park,https://drive.google.com/uc?id=1T0QpijvzfcmAvKs83opJuo_ihwBHRPqc
-9,Leicester,England,King Power Stadium,https://drive.google.com/file/d/11vZynvwYj-HP2RygEDlv3_aW9qbRsvyQ/view?usp=drive_link
-10,West Ham,England,London Stadium,https://drive.google.com/uc?id=1r6Urf7-ZSmdOZAxihTRWpNP-gToL18rR
+1,Arsenal,England,Emirates Stadium,https://github.com/3bedalla/Football-Analysis-Project/blob/master/team_photos/arsenal.png?raw=true
+2,Chelsea,England,Stamford Bridge,https://github.com/3bedalla/Football-Analysis-Project/blob/master/team_photos/chelsea.png?raw=true
+3,Liverpool,England,Anfield,https://github.com/3bedalla/Football-Analysis-Project/blob/master/team_photos/liverpool.png?raw=true
+4,Man City,England,Etihad Stadium,https://github.com/3bedalla/Football-Analysis-Project/blob/master/team_photos/manc.png?raw=true
+5,Man United,England,Old Trafford,https://github.com/3bedalla/Football-Analysis-Project/blob/master/team_photos/manu.png?raw=true
+6,Tottenham,England,Tottenham Hotspur Stadium,https://github.com/3bedalla/Football-Analysis-Project/blob/master/team_photos/spurs.png?raw=true
+7,Newcastle,England,St James' Park,https://github.com/3bedalla/Football-Analysis-Project/blob/master/team_photos/newcastle.png?raw=true
+8,Aston Villa,England,Villa Park,https://github.com/3bedalla/Football-Analysis-Project/blob/master/team_photos/astonvilla.png?raw=true
+9,Leicester,England,King Power Stadium,https://github.com/3bedalla/Football-Analysis-Project/blob/master/team_photos/liecter.png?raw=true
+10,West Ham,England,London Stadium,https://github.com/3bedalla/Football-Analysis-Project/blob/master/team_photos/westham.png?raw=true
