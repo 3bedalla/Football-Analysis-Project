@@ -1,11 +1,11 @@
-team_id,team_name,country,stadium,logo
-1,Arsenal,England,Emirates Stadium,
-2,Chelsea,England,Stamford Bridge,
-3,Liverpool,England,Anfield,
-4,Man City,England,Etihad Stadium,
-5,Man United,England,Old Trafford,
-6,Tottenham,England,Tottenham Hotspur Stadium,
-7,Newcastle,England,St James' Park,
-8,Aston Villa,England,Villa Park,
-9,Leicester,England,King Power Stadium,
-10,West Ham,England,London Stadium,
+team_id,team_name,country,stadium,logo_link
+1,Arsenal,England,Emirates Stadium,https://drive.google.com/uc?id=1tPYDqi3YbK9K-YOHSl4Q4l6pdyGKfLz9
+2,Chelsea,England,Stamford Bridge,https://drive.google.com/uc?id=1YUA4GbgJEsWG10l9_-7UP5AqUnbzlyT1
+3,Liverpool,England,Anfield,https://drive.google.com/uc?id=1PwrFQpLuNMGn3Ei8gIcpb-V4caILC-fA
+4,Man City,England,Etihad Stadium,https://drive.google.com/file/d/1q9f9Jl9itukRXjiQ7w7kSWIH1UZWsKCb
+5,Man United,England,Old Trafford,https://drive.google.com/file/d/1p9YpfqvbkCx3e3Lt625vUQlzAggfTDTo/view?usp=drive_link
+6,Tottenham,England,Tottenham Hotspur Stadium,https://drive.google.com/file/d/1GCGf22ZRLtjwOEUMV5qh1EDV5ecwfmcC/view?usp=drive_link
+7,Newcastle,England,St James' Park,https://drive.google.com/uc?id=1oGKMdknUaMhu6qK-AsLkS3HhzNKDg2Iy
+8,Aston Villa,England,Villa Park,https://drive.google.com/uc?id=1T0QpijvzfcmAvKs83opJuo_ihwBHRPqc
+9,Leicester,England,King Power Stadium,https://drive.google.com/file/d/11vZynvwYj-HP2RygEDlv3_aW9qbRsvyQ/view?usp=drive_link
+10,West Ham,England,London Stadium,https://drive.google.com/uc?id=1r6Urf7-ZSmdOZAxihTRWpNP-gToL18rR
